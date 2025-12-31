@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I'm Bhavya Singhal
 AI & Web Development based projects, including an AI Chatbot and my sign language converter project “Inclusify”.<br>Web Development, AI-based applications, Open Source projects, and beginner-friendly tech ideas.<br>Advanced JavaScript, backend integration, APIs, and improving project scalability.<br>Full-Stack Development, JavaScript frameworks, Cybersecurity basics, and Data Analytics concepts.<br>HTML, CSS, JavaScript, Web Projects, GitHub, basic AI concepts, and CS fundamentals.<br>I believe karma always returns, and I enjoy turning ideas into real working projects
 
 
